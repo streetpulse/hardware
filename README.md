@@ -2,6 +2,9 @@ hardware
 ========
 
 All hardware for streetpulse are presented in this folder: that's sensors, wireless communication and receiver.
+all contents on this repository are under Creative commons (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+![alt text](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "Creative Commons Licence")
+
 
 
 Sensors
@@ -26,4 +29,6 @@ The "base" that receives data is a **Raspberry Pi** with an antenna and a wirele
 an arduino wireless Shield for this (that's the picture) but  performance was too poor.
 
 Aside from better performance, we also recommend the use of Raspberry Pi as it saves data locally before sending it to a server. 
-This allowed us to cope with unreliable wifi connection and network loss of data. It also serves as additional backup
+This allowed us to cope with unreliable wifi connection and network loss of data. It also serves as additional backup.
+
+
