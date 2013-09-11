@@ -22,8 +22,8 @@ Regarding the solar cell, we imported a model from China, the **SZGD6060-4P**, b
 
 Base
 ====
-The "base" that receives data is a Raspberry Pi with an antenna and a wireless transceiver from Sparkfun
-(https://www.sparkfun.com/products/705), see pictures in the base folder. Note that we first tried to use
+The "base" that receives data is a **Raspberry Pi** with an antenna and a wireless transceiver from [Sparkfun][https://www.sparkfun.com/products/705], see pictures in the base folder. Note that we first tried to use
 an arduino wireless Shield for this (that's the picture) but  performance was too poor.
 
-Aside from better performance, we also recommend the use of Raspberry Pi as it saves data locally before sending it to a server. This allowed us to cope with unreliable wifi connection and network loss of data. It also serves as additional backup
+Aside from better performance, we also recommend the use of Raspberry Pi as it saves data locally before sending it to a server. 
+This allowed us to cope with unreliable wifi connection and network loss of data. It also serves as additional backup
