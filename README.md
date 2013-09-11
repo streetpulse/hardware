@@ -11,13 +11,13 @@ The Sensors are composed of an electronic board, a battery, a solar cell and an 
 
 You will find the PCB file (Eagle software) to make the electronic board for sensors from scratch, with the list of components used. Most manufacturers will take these files and can produce the sensor modules without additional work.
 
-⋅⋅* garbageSensor.brd 
-⋅⋅* garbageSensor.sch
-⋅⋅* bom-street-pulse.xls
+- garbageSensor.brd 
+- garbageSensor.sch
+- bom-street-pulse.xls
  
-For the enclosure containing the modules, We used a *BUD CU-791-MB* but other boxes might do.
+For the enclosure containing the modules, We used a **BUD CU-791-MB** but other boxes might do.
 
-Regarding the solar cell, we imported a model from China, the *SZGD6060-4P*, but all models capable of 2Volts at 200mA max (max Power 0.4 Watt) would do.
+Regarding the solar cell, we imported a model from China, the **SZGD6060-4P**, but all models capable of 2Volts at 200mA max (max Power 0.4 Watt) would do.
 
 
 Base
