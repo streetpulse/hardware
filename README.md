@@ -3,6 +3,7 @@ hardware
 
 All hardware for streetpulse are presented in this folder: that's sensors, wireless communication and receiver.
 all contents on this repository are under Creative commons (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+
 ![alt text](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "Creative Commons Licence")
 
 
